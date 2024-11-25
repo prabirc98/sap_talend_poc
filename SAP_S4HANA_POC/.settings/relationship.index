@@ -5,9 +5,17 @@
     "type" : "job"
   },
   "relatedItems" : [ {
+    "id" : "_E0PPIKsnEe-nO7-UITXoJA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
     "id" : "_v4yokKspEe-nO7-UITXoJA",
     "version" : "Latest",
     "type" : "property"
+  }, {
+    "id" : "_E0PPIKsnEe-nO7-UITXoJA - BU_Master",
+    "version" : "Latest",
+    "type" : "schema"
   }, {
     "id" : "_v4yokKspEe-nO7-UITXoJA - metadata",
     "version" : "Latest",
