@@ -289,7 +289,7 @@
   </node>
   <node componentName="tRESTClient" componentVersion="0.102" offsetLabelX="0" offsetLabelY="0" posX="360" posY="280">
     <elementParameter field="TEXT" name="UNIQUE_NAME" value="tRESTClient_1" show="false"/>
-    <elementParameter field="TEXT" name="URL" value="&quot;https://10.32.0.57:8220/sap/opu/odata/sap/ZDS_T134T_SRV/SDT134TSet&quot;"/>
+    <elementParameter field="TEXT" name="URL" value="&quot;https://tdpdcs4dappl.tspdl.local:8220/sap/opu/odata/sap/ZDS_T134T_SRV/SDT134TSet&quot;"/>
     <elementParameter field="TEXT" name="PATH" value="&quot;&quot;"/>
     <elementParameter field="CLOSED_LIST" name="METHOD" value="GET"/>
     <elementParameter field="CLOSED_LIST" name="CONTENT_TYPE" value="application/xml" show="false"/>
