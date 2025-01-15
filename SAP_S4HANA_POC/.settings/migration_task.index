@@ -185,6 +185,11 @@
     "version" : "7.1.0",
     "status" : "noimpact"
   }, {
+    "id" : "org.talend.designer.mapreduce.repository.migration.AddDistributionForSparkMigrationTask",
+    "breaks" : "8.0.0",
+    "version" : "8.0.1",
+    "status" : "noimpact"
+  }, {
     "id" : "org.talend.designer.mapreduce.repository.migration.AddEMRFSMetadataTableNameToS3ConfigurationMigrationTask",
     "breaks" : "7.2.1",
     "version" : "7.3.0",
@@ -1125,6 +1130,11 @@
     "version" : "7.4.1",
     "status" : "noimpact"
   }, {
+    "id" : "org.talend.repository.model.migration.ChangeExtendId2BatchMigrationTask",
+    "breaks" : "8.0.1",
+    "version" : "8.0.1",
+    "status" : "noimpact"
+  }, {
     "id" : "org.talend.repository.model.migration.ChangeExtendInsertDefaultValueMigrationTask",
     "breaks" : "5.1.1",
     "version" : "5.1.2",
@@ -1565,6 +1575,11 @@
     "status" : "noimpact"
   }, {
     "id" : "org.talend.repository.model.migration.FileInputRegexContextVariableMigrationTaskForSave",
+    "breaks" : "5.1.1",
+    "version" : "5.1.2",
+    "status" : "noimpact"
+  }, {
+    "id" : "org.talend.repository.model.migration.FixProjectResourceLink",
     "breaks" : "5.1.1",
     "version" : "5.1.2",
     "status" : "noimpact"
@@ -2053,6 +2068,11 @@
     "version" : "7.2.1",
     "status" : "noimpact"
   }, {
+    "id" : "org.talend.repository.model.migration.ResetDefaultHintFormatMigrationTask",
+    "breaks" : "8.0.1",
+    "version" : "8.0.1",
+    "status" : "noimpact"
+  }, {
     "id" : "org.talend.repository.model.migration.ResetItemLabelMigrationTask",
     "breaks" : "4.2.4",
     "version" : "5.2.2",
@@ -2245,6 +2265,11 @@
     "id" : "org.talend.repository.model.migration.TickDieOnError4tFileUnarchive",
     "breaks" : "6.1.0",
     "version" : "6.1.1",
+    "status" : "noimpact"
+  }, {
+    "id" : "org.talend.repository.model.migration.UncheckBase64ForBufferIO",
+    "breaks" : "8.0.1",
+    "version" : "8.0.1",
     "status" : "noimpact"
   }, {
     "id" : "org.talend.repository.model.migration.UncheckBson2JsonTask",
