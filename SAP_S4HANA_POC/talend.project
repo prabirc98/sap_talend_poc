@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
-  <TalendProperties:Project xmi:id="_iyyAoKAdEe-TQoqCW-x0Mw" label="SAP_S4HANA_POC" description="" language="java" technicalLabel="SAP_S4HANA_POC" author="_iyyAoaAdEe-TQoqCW-x0Mw" productVersion="Talend Big Data-8.0.1.20240222_1049-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/prabirc98/sap_talend_poc.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI" itemsRelationVersion="1.3">
+  <TalendProperties:Project xmi:id="_iyyAoKAdEe-TQoqCW-x0Mw" label="SAP_S4HANA_POC" description="" language="java" technicalLabel="SAP_S4HANA_POC" author="_iyyAoaAdEe-TQoqCW-x0Mw" productVersion="Talend Big Data-8.0.1.20241219_0901-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/prabirc98/sap_talend_poc.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI" itemsRelationVersion="1.3">
     <migrationTask xmi:id="_i0tTQKAdEe-TQoqCW-x0Mw" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_iyyAoaAdEe-TQoqCW-x0Mw" login="Admin@reasonanalytics.in" firstName="admin" lastName="user" type="DI" additionnalData="{}"/>
